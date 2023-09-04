@@ -1,12 +1,12 @@
 # Implementation of Univariate Linear Regression
-## AIM:
+### AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 
-## Equipments Required:
+### Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
+### Algorithm
 1. Get the independent variable X and dependent variable Y.
 2. Calculate the mean of the X -values and the mean of the Y -values.
 3. Find the slope m of the line of best fit using the formula. 
@@ -16,7 +16,7 @@ To implement univariate Linear Regression to fit a straight line using least squ
 5. Use the slope m and the y -intercept to form the equation of the line.
 6. Obtain the straight line equation Y=mX+b and plot the scatterplot.
 
-## Program:
+### Program:
 ```
 
 Program to implement univariate Linear Regression to fit a straight line using least squares.
@@ -43,7 +43,7 @@ plt.plot(X, Y_pred, color='lime')
 plt.show()
 ```
 
-## Output:
+### Output:
 
 ![Screenshot 2023-08-17 094824](https://github.com/sujigunasekar/Find-the-best-fit-line-using-Least-Squares-Method/assets/119559822/f9ae875c-6968-4612-b4b2-f783d834bf2e)
 
